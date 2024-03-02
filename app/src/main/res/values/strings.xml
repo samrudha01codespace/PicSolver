@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PicSolver</string>
+    <string name="ssk">Instructions :\n Select Image in which you have query.\n(*Note : Image should be like Poster , or which have text)\n</string>
+</resources>
