@@ -1,6 +1,6 @@
 package com.samrudhasolutions.bolo.network
 
-import com.samrudhasolutions.bolo.utils.BASE_URL
+import com.example.picsolver.utils.BASE_URL
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

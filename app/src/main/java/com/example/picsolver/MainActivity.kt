@@ -15,7 +15,7 @@ import androidx.lifecycle.lifecycleScope
 import com.google.mlkit.vision.common.InputImage
 import com.google.mlkit.vision.text.TextRecognition
 import com.google.mlkit.vision.text.latin.TextRecognizerOptions
-import com.samrudhasolutions.bolo.utils.ANSWERAFTEREDIT
+import com.example.picsolver.utils.ANSWERAFTEREDIT
 import com.samrudhasolutions.virtualtutoringplatform.respository.ChatRepository
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.tasks.await

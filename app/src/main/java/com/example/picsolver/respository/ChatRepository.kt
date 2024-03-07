@@ -3,9 +3,9 @@ package com.samrudhasolutions.virtualtutoringplatform.respository
 import com.samrudhasolutions.bolo.network.ApiClient
 import com.samrudhasolutions.bolo.response.ChatRequest
 import com.samrudhasolutions.bolo.response.Message
-import com.samrudhasolutions.bolo.utils.ANSBEFOREEDIT
-import com.samrudhasolutions.bolo.utils.ANSWERAFTEREDIT
-import com.samrudhasolutions.bolo.utils.CHATGPT_MODEL
+import com.example.picsolver.utils.ANSBEFOREEDIT
+import com.example.picsolver.utils.ANSWERAFTEREDIT
+import com.example.picsolver.utils.CHATGPT_MODEL
 
 
 class ChatRepository {
