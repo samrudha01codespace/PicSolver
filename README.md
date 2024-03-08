@@ -48,7 +48,8 @@ PicSolver is an AI-powered application that allows users to upload images contai
 3. Download the PicSolver app from this link:- https://fastupload.io/zHUNdSEFzmLMJiq/file0 
    
 4. Install the app on your device and follow the instructions from given video link.
-   **VideoLink:** [https://fastupload.io/zHUNdSEFzmLMJiq/file0](https://youtu.be/eJIE_GJTZb8)
+   
+   **VideoLink:** [Instrution Video (Click Here !!)](https://youtu.be/eJIE_GJTZb8)
 
 
 **Contributing:**
@@ -57,7 +58,7 @@ Contributions to PicSolver are welcome! If you have any ideas for new features, 
 
 **Feedback:**
 
-We value your feedback! If you have any suggestions, questions, or concerns regarding PicSolver, please don't hesitate to contact us at [contact@example.com](mailto:contact@example.com).
+We value your feedback! If you have any suggestions, questions, or concerns regarding PicSolver, please don't hesitate to contact us at [Mail me for Feedback..](mailto:samrudhakshirsagar@gmail.com).
 
 **License:**
 
@@ -66,8 +67,7 @@ PicSolver is licensed under the MIT License. See the [LICENSE]. file for more de
 **Acknowledgments:**
 
 - PicSolver utilizes the following open-source libraries and APIs:
-  - Google Cloud Vision API for text recognition.
-  - TensorFlow Lite for image processing.
+  - OpenAI API for text recognition.
   
 - Special thanks to our contributors for their valuable contributions to the development of PicSolver.
 
