@@ -1,5 +1,8 @@
 **PicSolver**
 
+![Logo Design](https://github.com/samrudha01codespace/PicSolver/assets/144599345/ca17a5f8-c473-425c-8ae0-7ce279df4884)
+
+
 **Description:**
 PicSolver is an AI-powered application that allows users to upload images containing text, such as documents or posters, and obtain solutions to their queries related to the content of the image. With PicSolver, users can effortlessly extract text from images and receive accurate responses to their questions, making it a valuable tool for quickly obtaining information from printed materials.
 
