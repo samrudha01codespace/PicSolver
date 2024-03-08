@@ -1,11 +1,12 @@
-package com.samrudhasolutions.virtualtutoringplatform.respository
+package com.example.picsolver.chatgptfiles.respository
 
 import com.samrudhasolutions.bolo.network.ApiClient
-import com.samrudhasolutions.bolo.response.ChatRequest
+import com.example.picsolver.chatgptfiles.response.ChatRequest
 import com.samrudhasolutions.bolo.response.Message
-import com.example.picsolver.utils.ANSBEFOREEDIT
-import com.example.picsolver.utils.ANSWERAFTEREDIT
-import com.example.picsolver.utils.CHATGPT_MODEL
+import com.example.picsolver.chatgptfiles.utils.ANSBEFOREEDIT
+import com.example.picsolver.chatgptfiles.utils.ANSWERAFTEREDIT
+import com.example.picsolver.chatgptfiles.utils.CHATGPT_MODEL
+import java.sql.DriverManager.println
 
 
 class ChatRepository {

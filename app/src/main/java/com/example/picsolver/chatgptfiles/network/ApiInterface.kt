@@ -1,7 +1,7 @@
 package com.samrudhasolutions.bolo.network
-import com.samrudhasolutions.bolo.response.ChatRequest
-import com.samrudhasolutions.bolo.response.ChatResponse
-import com.example.picsolver.utils.OPENAI_API_KEY
+import com.example.picsolver.chatgptfiles.response.ChatRequest
+import com.example.picsolver.chatgptfiles.response.ChatResponse
+import com.example.picsolver.chatgptfiles.utils.OPENAI_API_KEY
 import retrofit2.http.Body
 import retrofit2.http.Header
 import retrofit2.http.POST
