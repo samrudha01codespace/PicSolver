@@ -29,7 +29,6 @@ PicSolver is an AI-powered application that allows users to upload images contai
 
 6. **User-Friendly Interface:** PicSolver features an intuitive and user-friendly interface, making it easy for users to upload images, enter queries, and access the generated solutions.
 
-7. **Offline Mode:** While an internet connection is required for text recognition and query processing, PicSolver offers an offline mode where users can view previously processed images and solutions without internet access.
 
 **Usage:**
 
